@@ -1,6 +1,6 @@
 # Calculator Website 🧮
 
-A simple and responsive calculator website built using HTML and CSS.  
+A simple and responsive calculator website built using HTML, CSS, and JavaScript.  
 This project performs basic arithmetic operations with a clean and user-friendly interface.
 
 ---
@@ -9,7 +9,7 @@ This project performs basic arithmetic operations with a clean and user-friendly
 
 - Basic arithmetic calculations
 - Responsive design
-- Simple and clean user interface
+- Interactive buttons and display
 - Beginner-friendly project
 
 ---
@@ -18,6 +18,7 @@ This project performs basic arithmetic operations with a clean and user-friendly
 
 - HTML
 - CSS
+- JavaScript
 
 ---
 
@@ -28,6 +29,7 @@ Calculator/
 │
 ├── index.html
 ├── style.css
+├── script.js
 └── README.md
 
 👩‍💻 Author
